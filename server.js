@@ -17,14 +17,14 @@ var tutorials = [
         id: 1,
         title: "Heart of Courage ",
         description: "Learn to Play Heart of Courage by Two Steps From Hell by the Youtuber: Marioverehrer",
-        iframe: '<iframe width="560" height="315" src="https://www.youtube.com/embed/A00XMDZntnY" frameborder="0" allowfullscreen></iframe>',
+        iframe: '<div class = "container"><iframe class = "video" src="https://www.youtube.com/embed/A00XMDZntnY" frameborder="0" allowfullscreen></iframe></div>',
         thumbnail: "https://upload.wikimedia.org/wikipedia/en/9/93/TSFH-Invincible-Steven-R-Gilmore.jpg"
     },
     {
         id:2,
         title:"River flows in you - Yiruma ",
         description:"Learn to play this amazing song by Klavier lernen (werdemusiker.de)",
-        iframe:'<iframe width="560" height="315" src="https://www.youtube.com/embed/9T8cnch9Klg" frameborder="0" allowfullscreen></iframe>',
+        iframe:'<div class = "container"><iframe class = "video" src="https://www.youtube.com/embed/9T8cnch9Klg" frameborder="0" allowfullscreen></iframe></div>',
         thumbnail:"http://is4.mzstatic.com/image/thumb/Music/v4/43/05/bb/4305bb0e-ab27-b72d-e5b4-e4e2dd8938dc/source/1200x630bf.jpg"
     }
 ];
